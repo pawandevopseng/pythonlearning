@@ -1,1 +1,1 @@
-print (" Hello this is my first code")
+print (" Hello this is my first project")
